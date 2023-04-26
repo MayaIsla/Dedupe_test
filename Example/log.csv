@@ -1,0 +1,13 @@
+,Org,Address,Fname,Lname,cluster id,confidence
+0,george,123 street rd.,andrew,smith,0,0.76777189
+1,newton,1099 place rd.,ruth,thompson,1,0.823253274
+2,george,123 street road,pam,anderson,0,0.76777189
+3,hello,1029 address rd.,john,smith,2,0.823253274
+4,test,9278 road st.,vanessa,sanchez,3,0.823253274
+5,exist,0987 location street,edwin,rodriguez,4,0.823253274
+6,george,123 street rd.,andrew,smith,0,0.76777189
+7,newton,1099 place rd.,ruth,thompson,1,0.823253274
+8,george,123 street road,pam,anderson,0,0.76777189
+9,hello,1029 address rd.,john,smith,2,0.823253274
+10,test,9278 road st.,vanessa,sanchez,3,0.823253274
+11,exist,0987 location street,edwin,rodriguez,4,0.823253274
